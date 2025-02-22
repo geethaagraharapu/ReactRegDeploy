@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactRegDeploy.git/static/css/main.218f1547.css",
+    "main.js": "/ReactRegDeploy.git/static/js/main.af6bea00.js",
+    "index.html": "/ReactRegDeploy.git/index.html",
+    "main.218f1547.css.map": "/ReactRegDeploy.git/static/css/main.218f1547.css.map",
+    "main.af6bea00.js.map": "/ReactRegDeploy.git/static/js/main.af6bea00.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.218f1547.css",
+    "static/js/main.af6bea00.js"
+  ]
+}
